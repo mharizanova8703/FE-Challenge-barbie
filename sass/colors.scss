@@ -1,0 +1,54 @@
+.pink {
+    color: #fe14d8;
+}
+
+.blue {
+    color: #5EC5FF;
+}
+
+.bg-pink {
+    background-color: #fe14d8;
+}
+
+.br {
+    border-radius: 1.4rem;
+}
+
+.br-c {
+    border-radius: 0.6rem;
+}
+
+.home {
+    float: right;
+    text-align: right;
+    margin-top: -3.3rem;
+    padding: 0.5rem;
+}
+
+.bg-blue {
+    background-color: #5ec5ff;
+}
+
+.bg-purple {
+    background-color: #6046ff;
+}
+
+hr {
+    border: 2px solid white;
+    opacity: inherit;
+    width: 100%;
+}
+
+.border-cus {
+    border-style: solid;
+    border: 3px solid #bc0393 !important;
+}
+
+.border-cus-black {
+    border-style: solid;
+    border: 1px solid black !important;
+}
+.main-bg{
+    background-image: url("/images/bg-barbi.png");
+    background-size: 100% 100%;
+}
